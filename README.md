@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite Timer" title="Ignite Timer" src=".github/timer.gif" />
+    <img alt="Todo React Native" title="Todo React Native" src=".github/preview.png" />
 </h1>
 
 ## 💻 Projeto
